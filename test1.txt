@@ -1,1 +1,3 @@
-hello world
+fetch remote files using the following command
+git pull <remote> <branch>
+
